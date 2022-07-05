@@ -1,0 +1,12 @@
+.search {
+  width: 400px;
+  font-size: large;
+}
+
+.button {
+  margin-left: 20px;
+  color: aliceblue;
+  background-color: rgb(77, 85, 108);
+  border-radius: 3px;
+  font-size: medium;
+}
