@@ -19,7 +19,7 @@ function App() {
     //Llamado a la API del clima
 
     fetch(
-      `http://api.openweathermap.org/data/2.5/weather?q=${ciudad}&appid=${apiKey}`
+      `https://api.openweathermap.org/data/2.5/weather?q=${ciudad}&appid=${apiKey}`
     )
       .then((r) => r.json())
       .then((recurso) => {
