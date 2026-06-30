@@ -123,7 +123,7 @@ export function WeatherDashboard() {
           <h1 id="weather-title">Weather App</h1>
           <p>
             Search any city and compare current conditions, wind, humidity, and
-            a five-day outlook without accounts, keys, or a database.
+            a five day outlook without accounts, keys, or a database.
           </p>
         </div>
 
